@@ -44,10 +44,10 @@ cd anomaly-reaper
 uv --group dev --group test sync
 
 # Run the application
-anomaly-reaper run
+anomaly-reaper-api --port 8080
 ```
 
-The API will be available at http://localhost:8000.
+The API will be available at http://localhost:8080.
 
 ## 🔭 Void Scanner
 
