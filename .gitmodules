@@ -1,0 +1,6 @@
+[submodule "void-scanner"]
+	path = void-scanner
+	url = git@github.com:FarDust/void-scanner.git
+[submodule "anomaly-reaper"]
+	path = anomaly-reaper
+	url = git@github.com:FarDust/anomaly-reaper.git
